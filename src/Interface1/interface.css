@@ -1,0 +1,37 @@
+.interfacebg {
+  height: 100vh;
+  width: 100vw;
+  background-color: gold;
+  display: flex;
+}
+.intContent {
+  display: flex;
+  flex-direction: column;
+}
+.bios {
+  display: flex;
+  height: 500px;
+  width: 100vw;
+  background-color: white;
+}
+.svgCont {
+  width: 50%;
+  background-color: blue;
+  object-fit: cover;
+}
+.imgCont {
+  width: 50%;
+  object-fit: cover;
+}
+.biotext {
+  margin-left: 35%;
+  height: 300px;
+  width: 500px;
+  background-color: blue;
+  margin-top: 40px;
+  border-radius: 10px;
+}
+.foo {
+  background-color: blue;
+  margin-top: 70px;
+}
